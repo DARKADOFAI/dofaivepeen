@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dofai/vepeen/main/icon.png" width="128" height="128" alt="DOFaI VPN Logo">
+<img src="https://raw.githubusercontent.com/DARKADOFAI/dofaivepeen/main/icon.png" width="128" height="128" alt="DOFaI VPN Logo">
 
 # DOFaI ВэПээН
 
