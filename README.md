@@ -5,7 +5,7 @@
 # DOFaI ВэПээН
 
 **Стильный, быстрый и безопасный VPN-клиент под Android.** 
-Создан для работы с панелью **Remnawave**, использует мощь **Xray-core**.
+Создан для работы с сервисом **DOFaI.ВэПээН**, использует мощь **Xray-core**.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray_Core-1A1A1A?style=for-the-badge&logo=v2ray&logoColor=white)
